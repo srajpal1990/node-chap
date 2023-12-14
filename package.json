@@ -1,6 +1,6 @@
 {
-  "name": "chap",
-  "version": "0.4.0",
+  "name": "node-chap",
+  "version": "0.0.1",
   "description": "Basic CHAP, MS-CHAP and MS-CHAPv2 authentication and MPPE methods.",
   "main": "./lib/chap",
   "devDependencies": {
